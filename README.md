@@ -1,6 +1,6 @@
-## test
+## slush2
 
-THIS IS NOT A TEST
+a simple template for threejs, now with dat.gui
 
 ### install
 
