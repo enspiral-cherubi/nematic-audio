@@ -33,6 +33,7 @@
   },
   "homepage": "https://github.com/topological-ragnar/test",
   "dependencies": {
+    "cached-path-relative": "^1.0.2",
     "dat.gui": "^0.7.3",
     "jquery": "^3.3.1",
     "livereload": "^0.7.0",
