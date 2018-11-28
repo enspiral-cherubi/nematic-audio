@@ -1,12 +1,12 @@
-## test
+## slush2
 
-THIS IS NOT A TEST
+a simple template for threejs, now with dat.gui
 
 ### install
 
 ```
-git clone https://github.com/topological-ragnar/test
-cd test
+git clone https://github.com/enspiral-cherubi/slush2
+cd slush2
 npm install
 ```
 
