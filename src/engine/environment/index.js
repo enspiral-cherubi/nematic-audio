@@ -22,7 +22,7 @@ class Environment {
 
     // this.controls = new OrbitControls(this.camera)
     this.controls = new THREE.FlyControls(this.camera, this.renderer.domElement)
-    this.controls.movementSpeed = 0.5
+    this.controls.movementSpeed = 0.1
     this.controls.rollSpeed = 0.01
     this.keyMap = {}
 
